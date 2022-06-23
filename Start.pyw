@@ -1,5 +1,5 @@
 import tkinter as tk
-import start
+import Main
 
 """
 先创建400x500的初始窗口
